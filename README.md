@@ -1,1 +1,1 @@
-# chatgpt-financial-bot
+# gemini-financial-bot
